@@ -49,7 +49,6 @@ Permite calcular localizações com efeito nefasto, realizar pesquisas por profu
 ## Nota
 
 - **A funcionalidade de interseções de arestas entre diferentes frequências não foi implementada**, pois, segundo o modelo utilizado, apenas existem arestas entre antenas da mesma frequência.
-  ```
 
 ## Autoria
 
