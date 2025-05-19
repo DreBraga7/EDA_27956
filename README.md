@@ -13,8 +13,7 @@ Permite calcular localizações com efeito nefasto, realizar pesquisas por profu
 ```
 ├── main.c            # Função principal do programa
 ├── grafos.c          # Algoritmos principais e pesquisa (DFS, BFS, caminhos, etc)
-├── vertices.c        # Criação, inserção e listagem de antenas
-├── adjacencias.c     # Criação e gestão de arestas (ligações)
+├── vertices.c        # Criação, inserção e listagem de antenas com ligações (arestas)
 ├── global.h          # Definições de estruturas e cabeçalhos
 ├── matriz.txt        # Matriz de entrada (exemplo do enunciado)
 ├── Makefile          # Compilação simples
