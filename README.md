@@ -1,7 +1,7 @@
 # Projeto EDA_27956
 
-Trabalho prático de Estruturas de Dados Avançadas (Fase 1 e 2)  
-Licenciatura em Engenharia de Sistemas Informáticos — IPCA
+Trabalho prático de Estruturas de Dados Avançadas (Fase 1 e 2).
+Licenciatura em Engenharia de Sistemas Informáticos — IPCA.
 
 ## Objetivo
 
